@@ -1,0 +1,11 @@
+.env
+*.env.local
+.DS_Store
+Thumbs.dbdist/
+build/
+out/# Ignore log files
+*.log
+*.pdf
+*.json
+venv/
+**/__pycache__/
